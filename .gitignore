@@ -1,0 +1,8 @@
+/build/
+/debug/
+temp
+.cache.cfg
+
+!.vscode/
+!src/
+!compile.sh
